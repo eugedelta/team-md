@@ -1,0 +1,120 @@
+# TEAM.MD
+> Team context for AI tools. Read this before responding to any request from a member of this team.
+> Last updated: 2026-06-03 · Owner: Sarah Chen
+
+---
+
+## Who we are
+
+We're the People & Ops team at Acme Co. We own the employee lifecycle (hiring to offboarding), internal communications, and organisational effectiveness programs for ~200 staff. Our work sits at the intersection of HR, strategy, and day-to-day operations.
+
+---
+
+## Team members
+
+| Name | Role | What they own | How they work best |
+|------|------|---------------|-------------------|
+| Sarah Chen | Head of People | Final sign-off on all people decisions and external comms | Prefers concise summaries; data-sceptical — always cite the source |
+| Marcus Webb | Ops Lead | Processes, tooling, vendor relationships | Detail-oriented; present options with trade-offs, not recommendations |
+| Priya Nair | HR Business Partner | Coaching, ER cases, culture programs | Warm communicator; prefers narrative over bullet points |
+| James Liu | Ops Analyst | Data, reporting, systems | Comfortable with technical output; loves a well-structured table |
+
+---
+
+## How we make decisions
+
+- **Sarah** has final call on anything people-facing or externally communicated.
+- **Marcus** owns all vendor and tooling decisions over $5k.
+- Day-to-day decisions within individual lanes don't need escalation.
+- When in doubt: flag it to Sarah rather than assume.
+
+---
+
+## Communication norms
+
+- **Internal (Slack):** casual, direct, plain language. No corporate filler.
+- **External (staff, exec, board):** reviewed by Sarah before sending. Tone: warm, clear, no jargon.
+- **Meeting notes:** written up same day. Owner = whoever ran the meeting.
+- **Status updates:** weekly in Notion by COB Friday. No separate emails.
+
+---
+
+## How we use AI
+
+### What we use it for
+- Drafting: first-pass documents, emails, policies, job descriptions
+- Research: synthesising reports, benchmarking, sourcing data
+- Analysis: sense-checking data, summarising long documents
+- Thinking partner: stress-testing proposals, generating options
+
+### What we don't use it for (without explicit human review)
+- Final versions of anything going to staff or leadership — Sarah reviews
+- Sensitive HR matters: performance management, ER cases, terminations
+- Anything that commits the company to a position or financial obligation
+- Decisions about specific named individuals
+
+---
+
+## AI guardrails
+
+**Never include in prompts:**
+- Individual employee names combined with performance or health information
+- Salary or compensation data
+- Confidential ER or legal matters
+- Customer PII
+
+**Always do before sending AI output externally:**
+- Read it yourself, end to end
+- Check any data or statistics cited — AI hallucinates numbers
+- Get Sarah's sign-off if it's going above team level
+
+**On tone:** If AI output sounds stiff, corporate, or generic — rewrite it. We'd rather send something late and human than fast and hollow.
+
+---
+
+## Key workflows
+
+### Drafting a staff communication
+1. Draft in Google Docs — don't start in the email client
+2. AI can help with first draft; flag as AI-assisted in the doc comments
+3. Sarah reviews anything going to more than 5 people
+4. Plain language check before sending
+
+### Writing a job description
+1. Owner writes the role brief — not AI
+2. AI expands into full JD format using `jd-template.md` in this repo
+3. Marcus checks scope and level alignment
+4. Sarah approves before posting
+
+### Weekly status update
+1. Each person adds their update to Notion by COB Friday
+2. Format: what I did · what's blocked · what's next
+3. AI can help if you're stuck — keep it honest, not polished
+
+### Preparing for exec or board
+1. Start 5 days out minimum
+2. Sarah owns the narrative; everyone contributes their section
+3. AI useful for structuring arguments, simplifying language, sense-checking data
+4. Minimum one human review round after any AI involvement
+
+---
+
+## Things to know about our context
+
+- Mid-market company in significant growth — context shifts fast. When uncertain, ask a human.
+- Tools: **Notion** (docs), **Slack** (comms), **Greenhouse** (hiring), **BambooHR** (HRIS).
+- Fiscal year: July–June. Q1 = July–September.
+- Key milestones: engagement survey (March), performance cycles (June/December), board reporting (quarterly).
+
+---
+
+## What "good" looks like on this team
+
+- Clear is better than clever
+- Done with a human check beats perfect but unsent
+- We name problems early rather than paper over them
+- AI is a tool, not a team member — humans own outcomes
+
+---
+
+*To update this file: edit and commit via the shared repo. Changes go through a PR so the team sees what shifted.*
